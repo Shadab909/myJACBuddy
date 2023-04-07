@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598963194172",
+    "project_id": "myjacbuddy",
+    "storage_bucket": "myjacbuddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598963194172:android:f330245c51c2bb18697639",
+        "android_client_info": {
+          "package_name": "com.android.myjacbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598963194172-b2elr1clc5sr60llo95l2nmup9rkoe2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzAz8k5UECVmNR8Gx_UC5_Hik3dCvH1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598963194172-b2elr1clc5sr60llo95l2nmup9rkoe2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
